@@ -6,6 +6,7 @@ The Graduates Portal for The Computer Science Department at The University of Pr
 [![codecov](https://codecov.io/gh/COS-301/graduates/branch/develop/graph/badge.svg)](https://codecov.io/gh/COS-301/graduates/)
 ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m791587947-c4532bc7889afd31f0b6f3a8)
 <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/COS301-SE-2022/ReverseHand">
+<img alt="Uptime Robot status" src="https://img.shields.io/uptimerobot/status/m791626457-13b5f7a8e38fff2133205047">
 ## Basic Scripts
 
 These are essential scripts to get started:
