@@ -11,6 +11,7 @@ The Graduates Portal for The Computer Science Department at The University of Pr
 [![CI TESTS](https://github.com/COS301-SE-2022/ReverseHand/actions/workflows/index.yml/badge.svg?branch=develop)](https://github.com/COS301-SE-2022/ReverseHand/actions/workflows/index.yml)
 <img alt="Libraries.io dependency status for GitHub repo" src="https://img.shields.io/librariesio/github/COS301-SE-2022/ReverseHand">
 <img alt="Codecov" src="https://img.shields.io/codecov/c/github/COS301-SE-2022/ReverseHand">
+[![codecov](https://codecov.io/gh/COS301-SE-2022/ReverseHand/branch/develop/graph/badge.svg?token=FP6940JI0D)](https://codecov.io/gh/COS301-SE-2022/ReverseHand)
 
 ## Basic Scripts
 
